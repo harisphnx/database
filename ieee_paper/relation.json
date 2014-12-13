@@ -1,0 +1,4 @@
+{"emp": ["asg,eno","pay,title"],
+"asg": ["emp,eno","proj,pno"],
+"proj": ["asg,pno"],
+"pay": ["emp,title"]}
